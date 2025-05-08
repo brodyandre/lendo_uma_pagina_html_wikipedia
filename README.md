@@ -5,6 +5,7 @@ O objetivo é ler uma pagina HTML no Wikipedia e transforma-lá em um DataFrame 
 # 🌎 Análise de População de Países
 
 Este projeto realiza uma análise dos dados de população dos países, extraídos diretamente da Wikipédia. Utilizamos técnicas de web scraping com Pandas para capturar, limpar e estruturar essas informações, permitindo uma visão clara da distribuição populacional global.
+![Pagina do Wikipedia](images/nome_da_imagem.png)
 
 ---
 
